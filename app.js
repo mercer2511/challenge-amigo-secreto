@@ -8,6 +8,7 @@ function agregarAmigo() {
         return
     } else {
         amigos.push(nombreAmigo.value)
+        nombreAmigo.value = ''
     }
     console.log(amigos)    
 }
