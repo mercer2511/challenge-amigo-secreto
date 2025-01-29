@@ -26,3 +26,6 @@ Este proyecto es una aplicación web para realizar el sorteo de "Amigo Secreto".
 1. Clona el repositorio en tu máquina local.
    ```bash
    git clone https://github.com/mercer2511/challenge-amigo-secreto
+
+## Insignia
+![ff043987-239b-4661-bdb1-7f4ca6092c48](https://github.com/user-attachments/assets/67c105bc-5248-4cf8-b73e-60e2df7e501b)
